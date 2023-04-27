@@ -9,7 +9,7 @@
     "start": "cross-env NODE_ENV=production node ./src/main.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pavel Rudokopov",
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.3",
